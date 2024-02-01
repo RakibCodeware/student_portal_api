@@ -1,0 +1,528 @@
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.EduPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EduPortalAPI.props
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduPortalAPI.props
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduPortalAPI.props
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
+E:\Official Projects\Office Projects 26-04-2023\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.EduPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EduPortalAPI.props
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduPortalAPI.props
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduPortalAPI.props
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.EduPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EduPortalAPI.props
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduPortalAPI.props
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduPortalAPI.props
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+D:\Office Project\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
+D:\Running projects git hub\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.EduPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EduPortalAPI.props
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduPortalAPI.props
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduPortalAPI.props
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+D:\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\appsettings.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.exe
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.deps.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.runtimeconfig.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\EduPortalAPI.pdb
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Humanizer.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\bin\Debug\net6.0\ComplexScriptingSystem.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.AssemblyReference.cache
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfoInputs.cache
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.AssemblyInfo.cs
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CoreCompileInputs.cache
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.sourcelink.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.EduPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EduPortalAPI.props
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduPortalAPI.props
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduPortalAPI.props
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\scopedcss\bundle\EduPortalAPI.styles.css
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.csproj.CopyComplete
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\refint\EduPortalAPI.dll
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.pdb
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\EduPortalAPI.genruntimeconfig.cache
+D:\CW Project\DesktopProject\cw_edu_portal_api\EduPortalAPI\obj\Debug\net6.0\ref\EduPortalAPI.dll
